@@ -1,0 +1,21 @@
+[ {
+  "uid" : "25744cc7509be23f",
+  "name" : "Create issue UI",
+  "time" : {
+    "start" : 1602063398201,
+    "stop" : 1602063399481,
+    "duration" : 1280
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dc6a83f718a0ddbe",
+  "name" : "test_2",
+  "time" : {
+    "start" : 1602063405130,
+    "stop" : 1602063408369,
+    "duration" : 3239
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
