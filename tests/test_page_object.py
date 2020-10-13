@@ -1,8 +1,8 @@
+import pytest
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from pages.hamburger_menu import HamburgerMenu
 from pages.login_page import LoginPage
-
 
 class TestLogin:
 
