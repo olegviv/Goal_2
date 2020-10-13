@@ -1,0 +1,14 @@
+#venv
+/venv/
+
+#test logs ans reports
+/tests/pytest_cache/
+/tests/allure-report/
+/tests/allure-results/
+/tests/report/
+/tests/debug.log
+/tests/gekodriver.log
+
+#idea
+/.idea/
+/debug.log/
