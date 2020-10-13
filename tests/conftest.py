@@ -1,7 +1,7 @@
 import allure
 import pytest
 from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver import Chrome, Firefox
+from selenium.webdriver import Chrome
 
 
 @pytest.fixture()
