@@ -18,7 +18,7 @@ class TestLogin:
         driver.find_element_by_xpath("//input[@autocomplete='username']").send_keys("unfold@gmail.com")
         driver.find_element_by_xpath("//input[@autocomplete='current-password']").send_keys("u*6h8pKG")
         driver.find_element_by_xpath("//*[@id='root']/div/div[2]/div/div/form/button/span[1]/span").submit()
-        time.sleep(2)
+        time.sleep(1)
         driver.find_element_by_xpath("//button[@type='button']").click()
 
 
